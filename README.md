@@ -23,7 +23,7 @@ Intern at
 
 
 #### About the dataset
-- The dataset in this project is from [kaggles.com](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset). The data
+- The dataset in this project is from [kaggles.com](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset). The data 
 
 
 
