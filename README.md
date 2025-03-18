@@ -20,9 +20,12 @@ Intern at
 ## Projects 
 ### 1.) Online Shopping Analysis
 #### Introduction
-This project is about online shopping with insight of consumers' patterns, tendencies, decisions and particular preferences. With the insights provide variety of information such consumer's location, purchases history, product purchased preferences and their purchase frequency. And this collection of data can put into analysis process to determine consumer' decision-making process, 
+This project is about online shopping with insight of consumers' patterns, tendencies, decisions and particular preferences. With the insights provide variety of information such consumer's location, purchases history, product purchased preferences and their purchase frequency. 
 
 #### Objectives and Context
+
+this collection of data can put into analysis process to determine consumer' decision-making process, 
+
 
 #### This project will mainly focus on comsumer behavior and shopping habits 
 that leads to these questions:
