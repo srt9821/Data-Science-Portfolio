@@ -20,21 +20,14 @@ Intern at
 ## Projects 
 ### 1.) Online Shopping Analysis
 #### Introduction
-This project is about online shopping with insight of consumers' patterns, tendencies, decisions and particular preferences. With the insights provide variety of information such consumer's location, purchases history, product purchased preferences and their purchase frequency. 
+This project is about online shopping analytic with insight of consumers' patterns, tendencies, decisions and particular preferences. With the data that provide variety of information such consumer's location, purchases history, product purchased preferences and their purchase frequency. This collection of data will further put in to analytic process to determine cosumers' shopping patterns and habits.
 
 #### Objectives and Context
-
-this collection of data can put into analysis process to determine consumer' decision-making process, 
-
-
-#### This project will mainly focus on comsumer behavior and shopping habits 
-that leads to these questions:
-  ####  -
-  ####  -
-  ####  -
-
-  
-
+This project will mainly analyse on comsumer behavior and shopping habits, with the range of variable in the dataset can lead to multiple answers to these questions:
+- What is the most purchase castegory?
+- Does the gender affect how frequent consumer purchase a product?
+- What state in United States purchase the most across all the region?
+- What are the most trending item in a
 
 #### About the dataset
 - The dataset in this project is from [Kaggles](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset). 
@@ -43,4 +36,6 @@ that leads to these questions:
 
 #### Tools Used
 - Microsoft Excel, MySQL, Tableau
-- 
+
+#### Approachs
+
