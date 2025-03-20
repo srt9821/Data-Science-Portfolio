@@ -41,7 +41,9 @@ And put answer to the questions by developing a concise and coherent dashboard.
 - Microsoft Excel, MySQL, Tableau
 
 #### Approachs
-1.
+
+#### 1. Data Gathering
+
 
 2.
 
