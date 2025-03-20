@@ -27,15 +27,21 @@ This project will mainly analyse on comsumer behavior and shopping habits, with 
 - What is the most purchase castegory?
 - Does the gender affect how frequent consumer purchase a product?
 - What state in United States purchase the most across all the region?
-- What are the most trending item in a
+- What are the most trending item in every season of the year?
+
+And put answer to the questions by developing a concise and coherent dashboard.
 
 #### About the dataset
-- The dataset in this project is from [Kaggles](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset). 
-
-
+- The dataset in this project is from [Kaggles](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset) formed by merge data 
+- the dataset contain 18 columns in total: Customer ID, Age, Gender, Item Purchased, Category, Purchase Amount (USD), Location, Size, Color, Season, Review Rating, Subscription Status, Shipping Type, Discount Applied,
+  Promo Code Used, Previous Purchases, Payment Method, Frequency of Purchases.
+- The dataset is clean and no date-time value. The Frequency of Purchases is a reference to date-time value.
 
 #### Tools Used
 - Microsoft Excel, MySQL, Tableau
 
 #### Approachs
+1.
+
+2.
 
