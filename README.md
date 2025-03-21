@@ -42,8 +42,10 @@ And put answer to the questions by developing a concise and coherent dashboard.
 
 #### Approachs
 
-#### 1. Data Gathering
+#### 1. Data Gathering and Data Summary
+Download the dataset from Kaggles. Use Excel the to summarize all the data, the data is already clean which means that the data have no NULL(blank row) and no duplicates. The column name has blank space, so it replaces with underscore for later usage in data manipulation. 
 
+![1](https://github.com/user-attachments/assets/bf01def0-d8ba-488d-9667-b467794f700b)
 
-2.
+#### 2. Data Exploratory 
 
