@@ -48,4 +48,38 @@ Download the dataset from Kaggles. Use Excel the to summarize all the data, the 
 ![1](https://github.com/user-attachments/assets/bf01def0-d8ba-488d-9667-b467794f700b)
 
 #### 2. Data Exploratory 
+Firstly, begin by reviewing all the data and columns. The dataset consist of 18 columns in total.After a thorough review. i decided to utilize only eight columns: age, category, purchase amount, location, previous purchase, frequency of purchases, season and review rating.
+
+FIGURE 1
+
+These columns will be determined for the main objective for this project. Since the primary objective of this project is to analyze consumer behavior and online shopping habits, I have determined that identifying the top-selling product categories across all purchases is a crucial factor in enhancing sales performance for each category.
+
+FIGURE 2(MOST SALES CATEGORY)
+
+This also come along with a curiosity to which items in those category standout the most by evaluating the customer feedback through the rating review columns as shown in figure (3).
+
+FIGURE 3 (item rating)
+
+At this stage, one factors become relevant. I have decided to put season as new factor for analyzing the product sales.
+The term "season" refers to a specific period within a year, defined by time and date. In this context, it can be useful for developing a trend diagram. However, its applicability is limited to a one-year duration, as the dataset lacks precise date and time values (FIG 4).
+
+fig4 (seasonal)
+
+[Previous purchase is all numerical value. Frequency contain seven unique value consist of weekly, every 3 months, annually, quarterly, bi-Weekly, monthly and fortnightly]
+
+The dataset provide previous purchase and frequency in refer to rate of purchasing product of customer. As shown in fig (5) to fig(7) frequency and previous purchase number can be analyze as multiple variable together with other variable. For example in fig(5), gender is used as a grouping varible to differentiate the rate of purchase to the product.
+
+fig 5
+fig 6
+fig 7
+
+Lastly in this section, we explore more on a wide perspective. In this part we observe on the sales across all the region to later utilize for comparsion diagram, the data is as shown in fig 8. 
+
+#### 3. Worksheet Build
+
+
+#### 4. Dashboard Build
+
+
+#### 5. Conclusion
 
