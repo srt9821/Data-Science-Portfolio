@@ -1,6 +1,6 @@
 ## Data Analyst Portfolio
 ### About me
-I am Mechanical Engineering graduated. Although I graduated from different field I have always wanted to try new path and explore for new opportunity, that is when i have an interests on data sciences. Ready to learn new things and experiences. I am very adaptable person and can work coordinately within team environment. I have fundamental in various skills and eager to use for objectives to be done benefitting the organization.
+I am Mechanical Engineering graduated. Although I graduated from different field I have always wanted to try new path and explore for new opportunity, that is when i have an interests on data sciences and ready to learn new things and experiences. I have fundamental in various skills and this is the project i have done in the past.
 
 ### Technical Skills
 - SQL
