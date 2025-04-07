@@ -136,6 +136,8 @@ Lastly, the worksheet 5 will visualize the sales across all USA region but in th
 
 
 
+![image](https://github.com/user-attachments/assets/d0d4c263-224c-45e2-8616-87a3669cf183)
+
 *Fig. 16*
 
 #### 5. Conclusion
