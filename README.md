@@ -42,14 +42,14 @@ And put answer to the questions by developing a concise and coherent dashboard.
 
 #### Approachs
 
-#### 1. Data Gathering and Data Summary
+#### Data Gathering and Data Summary
 Download the dataset from Kaggles. Use Excel the to summarize all the data, the data is already clean which means that the data have no NULL(blank row) and no duplicates. The column name has blank space, so it replaces with underscore for later usage in data manipulation. 
 
 ![1](https://github.com/user-attachments/assets/bf01def0-d8ba-488d-9667-b467794f700b)
 
 *Fig. 1*
 
-#### 2. Data Exploratory 
+#### Data Exploratory 
 Firstly, begin by reviewing all the data and columns. The dataset consist of 18 columns in total.After a thorough review. i decided to utilize only eight columns: age, category, purchase amount, location, previous purchase, frequency of purchases, season and review rating.
 
 ![image](https://github.com/user-attachments/assets/b444912d-25f8-4343-ad52-b48f6b11b919)
@@ -101,7 +101,7 @@ Lastly in this section, we explore more on a wide perspective. In this part we o
 
 *Fig. 10*
 
-#### 3. Worksheet Build
+#### Worksheet Build
 
 In this project will consist of total of 5 worksheets that will answer all the questions state in the project objective. Begin with connect to the dataset table for particular worksheet. Worksheet 1 will present about the total purchases in which grouped by product category. Worksheet 1 uses pie chart to visulize the majority of the number toward the category as shown in fig. 11.
 
@@ -132,13 +132,13 @@ Lastly, the worksheet 5 will visualize the sales across all USA region but in th
 
 *Fig. 15*
 
-#### 4. Dashboard Build
+#### Dashboard Build
 The dashboard is formed by combining all worksheet and arrange for an easy storytelling. The dashboard is shown in fig 13.This dashboard answers all five questions that state in the project objectives.
 
 ![image](https://github.com/user-attachments/assets/d0d4c263-224c-45e2-8616-87a3669cf183)
 
 *Fig. 16*
 
-#### 5. Conclusion
+#### Conclusion
 
 This project is about analyzing the customer online shopping habit and identify their process in which lead to thier decision-making. From this dataset, it can be summarize that the clothing section has the most sales through out all section. Male customer tends to use online shoping more than female customer and also more frequent. All sales in four seasons are quite equal with t-shirt being the item that sales the most. The rating shows that customers are satify with the product and is in the good standards. Lastly, every region have a fair amount of performances except Kansas that need an improvement. Nonetheless, this project is only an example of how i am going make my approaches to the real world data for analyze and visualize the performance cases of an e-commerce business. 
