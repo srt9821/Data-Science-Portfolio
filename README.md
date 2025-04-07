@@ -133,8 +133,7 @@ Lastly, the worksheet 5 will visualize the sales across all USA region but in th
 *Fig. 15*
 
 #### 4. Dashboard Build
-
-
+The dashboard is formed by combining all worksheet and arrange for an easy storytelling. The dashboard is shown in fig 13.This dashboard answers all five questions that state in the project objectives.
 
 ![image](https://github.com/user-attachments/assets/d0d4c263-224c-45e2-8616-87a3669cf183)
 
@@ -142,3 +141,4 @@ Lastly, the worksheet 5 will visualize the sales across all USA region but in th
 
 #### 5. Conclusion
 
+This project is about analysing the customer online shopping habit and identify their process in which lead to thier decision-making. From this dataset, it can be summarize that the clothing section has the most sales through out all section. Male customer tends to use online shoping more than female customer and also more frequent. All sales in four seasons are quite equal with t-shirt being the item that sales the most. The rating shows that customers are satify with the product and is in the good standards. Lastly, every region have a fair amount of performances except Kansas that need an improvement. Nonetheless, this project is only an example of how i am going make my approaches to the real world data for analyze and visualize the performance cases of an e-commerce business. 
