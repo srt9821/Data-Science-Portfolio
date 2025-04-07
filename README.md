@@ -14,9 +14,6 @@ I am Mechanical Engineering graduated. Although I graduated from different field
 ### Education
 Mechanical Engineering | Kasetsart University (_2023_)
 
-### Work Experience
-Intern at 
-
 ## Projects 
 ### 1.) Online Shopping Analysis
 #### Introduction
