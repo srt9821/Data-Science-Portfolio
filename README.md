@@ -111,20 +111,24 @@ In this project will consist of total of 5 worksheets that will answer all the q
 
 Worksheet 2 will visualize in frequency of purchase seperated by certain preiod of time and grouped by gender . In this worksheet, using barchart can easily show the grouped population while maintaining the comparison of the data as shown in fig. 12.
 
-
+![image](https://github.com/user-attachments/assets/39dc595e-cd5e-4e85-b2c8-54f647050405)
 *Fig. 12*
 
 Worksheet 3 will visualize seasonal trends of an item.The trend chart can be shown in various chart but in this porject i decided to use sunbrust chart to focus the majority of number in both season ans item variable. the chart is as shown in fig. 13.
+
+![image](https://github.com/user-attachments/assets/a6b9da96-c750-482b-9b6c-5917b1610cf7)
 
 *Fig. 13*
 
 worksheet 4 wil focus on customer's feedback on a certain product. This fourth worksheet visualize on the overall item rating, worksheet shows both item that have the most rating within its own category. The rating is in the table as shown in fig. 14.
 
+![image](https://github.com/user-attachments/assets/5415eade-d195-4b67-beb7-9a04021d7be5)
 
 *Fig. 14*
 
 Lastly, the worksheet 5 will visualize the sales across all USA region but in this scenario Alaska is excluded. The grion comparison is as shown in fig. 15.
 
+![image](https://github.com/user-attachments/assets/eb99356e-8db7-461a-abde-99406d941799)
 
 *Fig. 15*
 
